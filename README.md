@@ -1,10 +1,10 @@
-#Text-Editor
+# Text-Editor
  
-##Install
+## Install
 > npm install
 
-##Usage
+## Usage
 > npm start
 
-###To Get Started
+### To Get Started
 > Choose File --> Select Language --> HTML or CSS or Javascript
