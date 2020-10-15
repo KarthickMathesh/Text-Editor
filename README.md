@@ -1,5 +1,5 @@
 # Text-Editor
-		Text Editor created using ace.js with emmet auto completion features.
+- Text Editor created using ace.js with emmet auto completion features.
 
 ### Install
 > npm install
@@ -9,5 +9,3 @@
 
 ### To Get Started
 > Choose File --> Select Language --> HTML or CSS or Javascript
-=======
-
