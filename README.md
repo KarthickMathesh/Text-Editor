@@ -2,11 +2,9 @@
 - Text Editor created using ace.js with emmet auto completion features.
 
 ### Install
-```sh
-git clone https://github.com/KarthickMathesh/Text-Editor.git
-cd Text-Editor
-npm install
-```
+> git clone https://github.com/KarthickMathesh/Text-Editor.git
+> cd Text-Editor
+> npm install
 
 ### Usage
 > npm start
