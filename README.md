@@ -1,3 +1,3 @@
 # Text-Editor
  
-``` File --> Select Language --> HTML or CSS or Javascript ```
+> Choose File --> Select Language --> HTML or CSS or Javascript
