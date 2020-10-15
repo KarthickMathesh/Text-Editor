@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body{
+  background-color: #1c1e24;
+  color: #fff;
+}
+
+#editor {
+  font-family: "Fira Code Retina";
+  font-size: 17px;
+  position: absolute;
+  margin: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

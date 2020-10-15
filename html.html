@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Text Editor</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/ace.js"></script>
+    <script src="js/emmet.js"></script>
+    <script src="js/ext-emmet.js"></script>
+  </head>
+  <body>
+    <!-- Text Editor Comes Here -->
+    <div id="editor"></div>
+
+    <!-- Text Editor Scripts -->
+    <script>
+      var editor = ace.edit("editor");
+      editor.setTheme("ace/theme/monokai");
+      editor.session.setMode("ace/mode/html");
+      editor.setHighlightActiveLine(true);
+      editor.setShowPrintMargin(false);
+      editor.session.mergeUndoDeltas = true;
+      editor.session.setTabSize(2);
+      editor.setOption("enableEmmet", true);
+      editor.focus();
+      editor.gotoLine(1);
+    </script>
+  </body>
+</html>

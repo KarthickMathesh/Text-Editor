@@ -1,0 +1,17 @@
+{
+  "name": "text_editor",
+  "version": "1.0.0",
+  "description": "Test Electron App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Karthick",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
