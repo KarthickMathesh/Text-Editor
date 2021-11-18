@@ -12,6 +12,6 @@
   "author": "Karthick",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^10.4.1"
+    "electron": ">=11.5.0"
   }
 }
